@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  background-color: darkgray;
+  overflow: hidden;
+  text-align: center;
+  position: relative;
+}
+
+#carCanvas {
+  background-color: lightgray;
+}
+
+
+#saveCar {
+  position: absolute;
+  bottom: 50px;
+  left: 20px;
+}
+#deleteCar {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+}
+
+#networkCanvas {
+  background-color: #515151;
+}
